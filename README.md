@@ -1,4 +1,4 @@
-# About the origin of M87's globular clusters
+# On the origin of M87's globular clusters
 High spatial resolutions images of M87 in the optical and infrared range, from NaCO-VLT and HST, have been
 analysed for deriving the stellar surface brightness profile of M87 in the most central region, under 80′′. Using
 literature previous results, from IR observations in the inner 19.2′′ and in the optical range for the inner 80′′, we
