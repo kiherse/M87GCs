@@ -19,4 +19,4 @@ formation scenario with M87, while blue GCs would have been accreted due to cani
 (showing a more extended surface density profile and beeing metal-poor). The lack of expected GCS within a few
 kpcs of the galactic centre would then have been accreted by the central black hole.
 
-### This project about the origin of M87 globular clusters was performed under a Fellowship on Astronomical Research at the IAC (Instituto de Astrofísica de Canarias).
+#### This project about the origin of M87 globular clusters was performed under a Fellowship on Astronomical Research at the IAC (Instituto de Astrofísica de Canarias). The IP of the project was Almudena Prieto.
